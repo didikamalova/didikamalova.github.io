@@ -283,7 +283,7 @@ h6 {
   display: none;
   line-height: 0;
   transition: 0.5s;
-  position: absolute;
+  position: fixed;
   right: 15px;
   top: 15px;
 }
@@ -299,7 +299,7 @@ h6 {
 }
 
 .navbar-mobile {
-  position: absolute;
+  position: fixed;
   overflow: hidden;
   top: 0;
   right: 0;
